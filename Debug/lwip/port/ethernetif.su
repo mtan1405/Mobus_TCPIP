@@ -1,0 +1,12 @@
+../lwip/port/ethernetif.c:160:17:netif_to_bitmask	0	static
+../lwip/port/ethernetif.c:370:13:extcb	16	static
+../lwip/port/ethernetif.c:123:6:ethernetif_phy_init	32	static
+../lwip/port/ethernetif.c:197:6:ethernetif_input	32	static
+../lwip/port/ethernetif.c:330:6:ethernetif_probe_link	24	static
+../lwip/port/ethernetif.c:361:13:probe_link_cyclic	8	static
+../lwip/port/ethernetif.c:224:7:ethernetif_init	32	static
+../lwip/port/ethernetif.c:382:12:ethernetif_wait_linkup	32	static
+../lwip/port/ethernetif.c:479:12:ethernetif_wait_ipv4_valid	32	static
+../lwip/port/ethernetif.c:576:6:ethernetif_pbuf_free_safe	8	static
+../lwip/port/ethernetif.c:143:13:fetch_all_received_pkts	16	static
+../lwip/port/ethernetif.c:166:13:rx_task	24	static

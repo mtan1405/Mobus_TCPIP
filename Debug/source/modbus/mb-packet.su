@@ -1,0 +1,8 @@
+../source/modbus/mb-packet.c:11:13:mb_packet_request_read_coil	0	static
+../source/modbus/mb-packet.c:22:13:mb_packet_request_read_discrete_inputs	0	static
+../source/modbus/mb-packet.c:33:13:mb_packet_request_read_holding_registers	0	static
+../source/modbus/mb-packet.c:44:13:mb_packet_request_read_input_registers	0	static
+../source/modbus/mb-packet.c:55:13:mb_packet_request_write_single_coil	0	static
+../source/modbus/mb-packet.c:66:13:mb_packet_request_write_single_register	0	static
+../source/modbus/mb-packet.c:77:13:mb_packet_request_write_multiple_coils	0	static
+../source/modbus/mb-packet.c:90:13:mb_packet_request_write_multiple_registers	0	static

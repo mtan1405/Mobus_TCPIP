@@ -1,0 +1,5 @@
+<directory>
+ <chips chipVendor='NXP' >
+  <chip name='MIMXRT1166xxxxx' xml_file='MIMXRT1166xxxxx_part.xml' />
+ </chips>
+</directory> 

@@ -1,0 +1,9 @@
+../source/test_modbus/source_modbus_tcp.c:91:5:modbus_set_slave	0	static
+../source/test_modbus/source_modbus_tcp.c:132:8:build_request_basis	12	static
+../source/test_modbus/source_modbus_tcp.c:165:14:_modbus_tcp_send_msg_pre	0	static
+../source/test_modbus/source_modbus_tcp.c:175:14:send_msg	24	static
+../source/test_modbus/source_modbus_tcp.c:108:5:read_registers	304	static
+../source/test_modbus/source_modbus_tcp.c:96:5:modbus_read_registers	16	static
+../source/test_modbus/source_modbus_tcp.c:29:11:modbus_new_tcp	8	static
+../source/test_modbus/source_modbus_tcp.c:44:5:mobus_request_from	24	static
+../source/test_modbus/source_modbus_tcp.c:194:15:get_last_modbus_err_string	0	static

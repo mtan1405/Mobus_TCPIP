@@ -1,0 +1,5 @@
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_ping_freertos_cm7__test\drivers/fsl_clock.h:2143:20:CLOCK_ControlGate	0	static
+../board/pin_mux.c:56:6:BOARD_InitPins	8	static
+../board/pin_mux.c:34:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:112:6:BOARD_InitEnetPins	8	static
+../board/pin_mux.c:197:6:BOARD_InitEnet1GPins	8	static

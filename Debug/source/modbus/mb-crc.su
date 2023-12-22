@@ -1,0 +1,3 @@
+../source/modbus/mb-crc.c:44:10:mb_crc16	4	static
+../source/modbus/mb-crc.c:57:9:mb_crc_add	16	static
+../source/modbus/mb-crc.c:66:10:mb_crc_check	16	static

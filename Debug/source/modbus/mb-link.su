@@ -1,0 +1,7 @@
+../source/modbus/mb-link.c:22:6:mb_link_error_handler	0	static
+../source/modbus/mb-link.c:40:6:mb_link_send	8	static
+../source/modbus/mb-link.c:46:6:mb_link_prepare_tx_data	8	static
+../source/modbus/mb-link.c:118:6:mb_link_reset_rx_buffer	0	static
+../source/modbus/mb-link.c:303:13:mb_rx_packet_split	0	static
+../source/modbus/mb-link.c:336:18:mb_get_packet_type	0	static
+../source/modbus/mb-link.c:129:6:mb_link_check_new_data	80	static

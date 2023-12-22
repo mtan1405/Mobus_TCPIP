@@ -1,0 +1,10 @@
+../source/test_modbus/modbus_lwip_/source_lwip_modbus.c:27:8:get_string_erro	0	static
+../source/test_modbus/modbus_lwip_/source_lwip_modbus.c:63:5:modbus_connected	0	static
+../source/test_modbus/modbus_lwip_/source_lwip_modbus.c:66:5:modbus_client_intit	8	static
+../source/test_modbus/modbus_lwip_/source_lwip_modbus.c:95:5:modbus_set_re_timeout	24	static
+../source/test_modbus/modbus_lwip_/source_lwip_modbus.c:102:5:modbus_read	16	static
+../source/test_modbus/modbus_lwip_/source_lwip_modbus.c:112:5:modbus_wirte	16	static
+../source/test_modbus/modbus_lwip_/source_lwip_modbus.c:122:6:modbus_close	8	static
+../source/test_modbus/modbus_lwip_/source_lwip_modbus.c:73:5:modbus_connect	24	static
+../source/test_modbus/modbus_lwip_/source_lwip_modbus.c:91:5:modbus_begin	8	static
+../source/test_modbus/modbus_lwip_/source_lwip_modbus.c:126:5:modbus_close_2	8	static

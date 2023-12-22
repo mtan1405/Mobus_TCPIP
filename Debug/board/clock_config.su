@@ -1,0 +1,6 @@
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_ping_freertos_cm7__test\drivers/fsl_clock.h:2122:20:CLOCK_SetRootClock	8	static
+C:\Users\os\Documents\MCUXpressoIDE_11.8.0_1165\2_13_RT1160\evkmimxrt1160_lwip_ping_freertos_cm7__test\drivers/fsl_clock.h:2205:24:CLOCK_GetRootClockFreq	16	static
+../board/clock_config.c:55:6:UpdateSemcClock	0	static
+../board/clock_config.c:276:6:BOARD_BootClockRUN	40	static
+../board/clock_config.c:46:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:1026:6:BOARD_BootClockRUN_500M	40	static

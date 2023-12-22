@@ -1,0 +1,6 @@
+../source/modbus/mb.c:31:6:mb_set_master_process_handler	0	static
+../source/modbus/mb.c:38:6:mb_set_tx_handler	0	static
+../source/modbus/mb.c:53:6:mb_rx_packet_handler	16	static
+../source/modbus/mb.c:186:6:mb_tx_packet_handler	16	static
+../source/modbus/mb.c:191:6:mb_rx_new_data	8	static
+../source/modbus/mb.c:196:6:mb_rx_timeout_handler	8	static
